@@ -1,0 +1,158 @@
+body {
+  width: auto;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+h3 {
+  font-size: 28px;
+  font-family: sans-serif;
+}
+
+h4 {
+  font-size: 22px;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 22px;
+  font-family: sans-serif;
+  line-height: 1.2;
+}
+
+li {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.clubslist {
+  font-size: 33px;
+  font-style: normal;
+}
+.cr7 {
+  font-size: 33px;
+}
+
+.footballFans {
+  width: 40%;
+}
+.openFansButton {
+  font-size: 20px;
+}
+.retriveThePhoto {
+  font-size: 20px;
+}
+.hidden {
+  display: none;
+}
+
+.closeFansButton {
+  font-size: 30px;
+}
+.whyLoveFootball {
+  width: 500px;
+  float: right;
+  margin-bottom: 330px;
+  border: solid;
+  position: relative;
+}
+.paragraphButton {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  font-size: 24px;
+}
+
+.theFirstSide {
+  width: 550px;
+}
+h1 {
+  font-size: 48px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  border: solid black;
+  /* text-align: center; */
+  color: green;
+  background-color: black;
+  align-self: flex-start;
+}
+.arrowThings {
+  /* display: none; */
+  font-family: sans-serif;
+  color: white;
+  text-transform: uppercase;
+  background-color: black;
+  display: flex;
+  gap: 50px;
+  align-self: center;
+  content: '\f0da';
+}
+.arrowThings:link {
+  color: brown;
+  background-color: yellow;
+}
+.downArrow {
+  color: white;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+.titleBasics {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: black;
+  gap: 50px;
+}
+.elementArrow {
+  font-family: sans-serif;
+  display: block;
+  cursor: pointer;
+}
+
+.teamsList {
+  /* background-color: white;
+  margin-top: 0;
+  margin-left: 450px;
+  width: 118px;
+  position: absolute;
+  top: 80px; */
+  /* bottom: 0px; */
+}
+.things {
+  position: relative;
+}
+.backGreen {
+  background-color: green;
+}
+.lists {
+  background-color: white;
+  display: flex;
+  margin-left: 450px;
+  margin-top: 0px;
+  /* position: absolute; */
+  top: 80px;
+  gap: 80px;
+}
+.tt {
+  position: relative;
+}
+.listAttr {
+  position: absolute;
+  top: 70px;
+  background-color: white;
+  color: black;
+  font-size: 0px;
+  font-family: sans-serif;
+}
+
+li:hover {
+  background-color: blue;
+  cursor: pointer;
+}
